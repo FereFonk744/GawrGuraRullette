@@ -1,0 +1,2 @@
+# GawrGuraRullette
+bot
